@@ -6,7 +6,7 @@
 
 ## 🎓 About Me
 
-I'm a final year B.Sc. (Honors) Microbiology student with a passion for exploring life sciences through the lens of technology and creativity. I love connecting the dots between biology, programming, and visual representation.
+I'm a graduate in B.Sc. (Honors) Microbiology student with a passion for exploring life sciences through the lens of technology and creativity. I love connecting the dots between biology, programming, and visual representation.
 
 ---
 
